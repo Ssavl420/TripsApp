@@ -4,7 +4,7 @@ import MainTitle from "../Components/MainTitle"
 import PageContent from "../Components/PageContent"
 
 const HomePage = () => {
-   console.log('HomePage')
+
    return (
       <div className="container mt-2 mt-sm-5">
          <MainTitle
