@@ -8,7 +8,7 @@ function App() {
   console.log('App')
   return (
     <Routes>
-      <Route path="../" element={<HomePage />} />
+      <Route path="/TripsApp/" element={<HomePage />} />
     </Routes>
     // <HomePage />
   );
