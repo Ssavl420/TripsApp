@@ -6,10 +6,10 @@ import HomePage from './pages/HomePage';
 
 function App() {
   return (
-    <Routes>
-      <div>App</div>
-      <Route path="/" element={<HomePage />} />
-    </Routes>
+    // <Routes>
+    //   <Route path="/" element={<HomePage />} />
+    // </Routes>
+    <HomePage />
   );
 }
 
